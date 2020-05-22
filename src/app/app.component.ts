@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
     title = 'ngprettier';
+
+    title2 = 'ngmg';
 }
